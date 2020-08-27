@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
- public static void main(Strings[] args){
+ public static void main(String[] args){
  int choice;
  System.out.println("Enter your choice: 1.Hi 2.Hello 3.Hey ");
  Scanner sc = new Scanner (System.in);
